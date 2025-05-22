@@ -1,4 +1,4 @@
-## Hi, I'm Kavya!
+# Hi, I'm Kavya!
 
 🧠 Computer Science student at Texas A&M University <br/>
 
