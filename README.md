@@ -19,16 +19,6 @@ Hey there! I'm Kavya, an energetic student passionate about building smart, impa
 
 ---
 
-## 🏅 Certifications
-
-- 🥇 **AWS Certified Cloud Practitioner** (CLF-C02 | Jun 2025)
-- 🤖 **AWS Certified Machine Learning Engineer** (Aug 2025)
-- 📊 **Google Data Analytics** (Aug 2025)
-- 🐍 **IBM Data Science with Python** (Jul 2022)
-- ⚙️ **IBM DevOps & Software Engineering** (Jun 2025)
-
----
-
 ## 🌈 Fun Facts
 
 - 🏸 Love smashing birdies on the badminton court
